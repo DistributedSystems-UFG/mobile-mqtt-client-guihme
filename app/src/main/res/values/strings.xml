@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Basic Android MQTT Client</string>
+    <string-array name="topic_array">
+        <item>air_monitor</item>
+        <item>light_monitor</item>
+    </string-array>
 </resources>
